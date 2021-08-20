@@ -1,0 +1,8 @@
+[
+  {
+    "name": "org.example.entities.TeacherEntity",
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  }
+]
